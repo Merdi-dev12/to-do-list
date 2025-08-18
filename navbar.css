@@ -1,0 +1,38 @@
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+.input-group {
+    width: 300px;
+    margin-block-start: 15px;
+    margin-right: 33px;
+}
+
+.btn-connect {
+    border-radius: 8px;
+}
+
+.btn-search {
+    border-radius: 60px;
+    width: 50px;
+    height: 30px;
+}
+
+.i-search {
+    width: 24px;
+    height: 24px;
+    color: #fff;
+}
+
+.btn {
+    border: 1px solid #fff;
+}
+
+.btn:hover {
+    background-color: #2b3035;
+    border: 1px solid #212529;
+    border: 1px solid #fff;
+}
+
+
+
